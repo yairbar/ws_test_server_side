@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: white;
+    border-color: black;
+    border: 1px solid;
+    box-shadow: 2px 2px;
+    cursor: pointer;
+}
+
+textarea{
+    vertical-align: top;
+}
+
+.btns{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-evenly;  
+}
+
+.content{
+    width: 300PX;
+}
+
